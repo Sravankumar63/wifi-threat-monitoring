@@ -34,6 +34,14 @@ This project focuses on detecting and analyzing security threats in wireless net
 3. Analyze security risks
 4. Detect anomalies using ML models
 5. Generate alerts and reports
+   
+## 📸 Screenshots
+
+### Workflow
+![Workflow](report/screenshots/workflow.png)
+
+### Output Result
+![Result](report/screenshots/result.png)
 
 ## Results
 - Detected open and weak networks
