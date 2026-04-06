@@ -12,7 +12,16 @@ This project focuses on detecting and analyzing security threats in wireless net
 - Signal strength monitoring
 - Machine Learning-based threat classification
 - Real-time alerts and logging
+  
+## ▶️ How to Run
 
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the script:
+   python wifi_scanner.py
+
+3. Ensure WiFi interface is in monitor mode
 ## Technologies Used
 - Python
 - Scapy
