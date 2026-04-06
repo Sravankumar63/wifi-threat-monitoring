@@ -42,3 +42,6 @@ This project focuses on detecting and analyzing security threats in wireless net
 
 ## 📄 Full Report
 [View Detailed Report](project-report.pdf)
+
+## Note
+This project includes both real scanning and simulated output for testing purposes.
